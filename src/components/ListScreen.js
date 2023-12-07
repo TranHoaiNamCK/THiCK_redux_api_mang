@@ -82,6 +82,7 @@ const ListScreen = ({ navigation, data, fetchData, addData, updateData, deleteDa
               
               <View style={{alignItems:'center',justifyContent:'center'}}>
                 <Text>{item.content}</Text>
+                <Text>{item.namwe}</Text>
                
               </View>
             </View>

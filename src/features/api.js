@@ -1,4 +1,4 @@
-const API_URL = 'https://65718bbbd61ba6fcc012e3b3.mockapi.io/user/1';
+const API_URL = 'https://65419d75f0b8287df1fe8b4a.mockapi.io/todo/1';
 const generateUniqueId = () => {
   return Date.now().toString(36) + Math.random().toString(36).substr(2);
 };
